@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/1/16 23:20:41。
+     1>项目“A:\study\mediaComputing\实验提交_黄世宇_2013011304\project1\resize_V2\resize\resize.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>a:\study\mediacomputing\实验提交_黄世宇_2013011304\project1\resize_v2\resize\main.cpp(183): warning C4700: 使用了未初始化的局部变量“op2”
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"A:\study\mediaComputing\实验提交_黄世宇_2013011304\project1\resize_V2\x64\Debug\resize.exe" /NOLOGO opencv_core249.lib opencv_imgproc249.lib opencv_highgui249.lib opencv_ml249.lib opencv_video249.lib opencv_features2d249.lib opencv_calib3d249.lib opencv_objdetect249.lib opencv_contrib249.lib opencv_legacy249.lib opencv_flann249.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"A:\study\mediaComputing\实验提交_黄世宇_2013011304\project1\resize_V2\x64\Debug\resize.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"A:\study\mediaComputing\实验提交_黄世宇_2013011304\project1\resize_V2\x64\Debug\resize.lib" /MACHINE:X64 x64\Debug\main.obj
+         resize.vcxproj -> A:\study\mediaComputing\实验提交_黄世宇_2013011304\project1\resize_V2\x64\Debug\resize.exe
+     1>已完成生成项目“A:\study\mediaComputing\实验提交_黄世宇_2013011304\project1\resize_V2\resize\resize.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.86
